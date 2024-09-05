@@ -1,0 +1,14 @@
+OPTIONS /send_screenshot HTTP/1.1
+Host: localhost:8888
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: null
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
